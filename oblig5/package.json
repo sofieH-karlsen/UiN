@@ -4,7 +4,7 @@
     "description": "",
     "keywords": [],
     "dependencies": {
-      "node-sass": "7.0.0",
+      "node-sass": "7.0.3",
       "react": "17.0.1",
       "react-dom": "17.0.1",
       "react-scripts": "5.0.1"
